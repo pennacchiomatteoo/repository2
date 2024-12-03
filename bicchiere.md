@@ -1,4 +1,3 @@
-Bicchiere realizzato con Blender.
+Bicchiere realizzato con Blender
 
-![Foto](bicchiere/bicchiere.jpg
-)
+![Foto](bicchiere/bicchiere.jpg)
